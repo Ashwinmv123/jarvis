@@ -1,5 +1,9 @@
-# ⚙️ MARK LVI (56)
-### The Ultimate Cross-Platform Personal AI Assistant — By FatihMakes
+# JARVIS
+### Mark LVI (56), a cross-platform personal AI assistant by FatihMakes
+
+JARVIS is a real-time voice assistant that can hear, see, speak, and control your computer on Windows, macOS, and Linux. It supports Gemini Live and configurable local or third-party AI engines.
+
+**Creator:** FatihMakes
 
 > 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@FatihMakes)**
 
