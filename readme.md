@@ -5,9 +5,8 @@ JARVIS is a real-time voice assistant that can hear, see, speak, and control you
 
 **Creator:** ashwin
 
-**Original license attribution:** FatihMakes (see [LICENSE](LICENSE))
 
-> 📺 **[Watch the full setup video on YouTube](https://www.youtube.com/@FatihMakes)**
+
 
 A real-time voice AI that can hear, see, speak, and control your computer — on any OS. Supports Windows, macOS, and Linux. Built on the Gemini Live API for native audio streaming, delivering zero subscriptions and total digital autonomy.
 
